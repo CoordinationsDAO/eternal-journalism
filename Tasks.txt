@@ -1,0 +1,10 @@
+Eternal Journalism v2:
+- support transferring ownership
+- support article URL
+- support multi-part article so tx won't revert for a big article (both for posting and updating)
+- get number of articles and number of updates
+- get number of updates for a given article
+- store contract version
+
+eternal-journalism-v3 will have NFTs
+eternal-journalism-v4: go multichain and use oracles to prevent duplicates
