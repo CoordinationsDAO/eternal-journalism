@@ -1,0 +1,4 @@
+chown -h 1000:1000 './[ChatGPT]Brainstorming.html'
+chmod 0664 './[ChatGPT]Brainstorming.html'
+/usr/bin/touch -hcmd "2023-06-11 17:38:21.8138993430 -0300" './[ChatGPT]Brainstorming.html'
+/usr/bin/touch -hcad "2023-06-11 17:47:27.6872340720 -0300" './[ChatGPT]Brainstorming.html'
