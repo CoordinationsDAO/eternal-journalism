@@ -6,7 +6,7 @@ Eternal Journalism v2:
 - get number of updates for a given article
 - store contract version
 
-transfer eternal-journalism-v2 contract ownership to Coordinations' Agent
+transfer eternal-journalism-v2 contract ownership to Coordinations' Agent (0x0d9c66c06ad28008ddc5e171c4f73643006deabc)
 
 eternal-journalism-v3 will have NFTs
 eternal-journalism-v4: go multichain and use oracles to prevent duplicates
