@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import Web3 from 'web3';
 import EternalJournalismABI from './EternalJournalismABI.json';
 
-const web3 = new Web3(Web3.givenProvider || 'http://localhost:8545');
-const contractAddress = '<contract_address>'; // Replace with the actual contract address
+const web3 = new Web3(Web3.givenProvider || 'https://rpc-mainnet.maticvigil.com');
+const contractAddress = '0xEf1e3C2EEd23CFbDCC724ba275938C954F9Bc338'; // Replace with the actual contract address
 
 const EternalJournalismApp = () => {
   const [contract, setContract] = useState(null);
