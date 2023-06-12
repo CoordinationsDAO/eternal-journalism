@@ -8,5 +8,8 @@ Eternal Journalism v2:
 
 transfer eternal-journalism-v2 contract ownership to Coordinations' Agent (0x0d9c66c06ad28008ddc5e171c4f73643006deabc)
 
+v2 dapp:
+- 43160 characters max for updating an article
+
 eternal-journalism-v3 will have NFTs
 eternal-journalism-v4: go multichain and use oracles to prevent duplicates
