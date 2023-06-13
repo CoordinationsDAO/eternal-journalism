@@ -14,7 +14,7 @@ In the Partial mode, you use an IPFS CID to store the article; in Full mode, the
 
 ## Deployments
 
-On Polygon, the gas cost is ~3 per article depending on its size.
+On Polygon, the gas cost is ~$3 per Full article depending on its size. For Partial it should be less than ~$1.
 
 Not deployed to Ethereum, yet.
 
