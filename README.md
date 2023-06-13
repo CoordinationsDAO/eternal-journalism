@@ -18,11 +18,13 @@ On Polygon, the gas cost is ~$3 per Full article depending on its size. For Part
 
 Not deployed to Ethereum, yet.
 
+The smart-contract has not been audited yet.
+
 ### Polygon
 
-You can interact with the contract on [Polygonscan](https://polygonscan.com/address/0xEf1e3C2EEd23CFbDCC724ba275938C954F9Bc338#writeContract).
+You can interact with the contract on [Polygonscan](https://polygonscan.com/address/0xCef69Cd562EC0C35aD87c89519eB8c78bD214c38#writeContract).
 
-Eternal Journalism's smart-contract is verified at [Sourcify](https://repo.sourcify.dev/contracts/full_match/137/0xEf1e3C2EEd23CFbDCC724ba275938C954F9Bc338) and [Polygonscan](https://polygonscan.com/address/0xEf1e3C2EEd23CFbDCC724ba275938C954F9Bc338).
+Eternal Journalism's smart-contract is verified at [Sourcify](https://repo.sourcify.dev/contracts/partial_match/137/0xCef69Cd562EC0C35aD87c89519eB8c78bD214c38) and [Polygonscan](https://polygonscan.com/address/0xCef69Cd562EC0C35aD87c89519eB8c78bD214c38#contracts).
 
 ### Ethereum
 
