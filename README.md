@@ -1,6 +1,6 @@
 # Eternal Journalism
 
-A dapp that enable journalists to protect their articles forever (thanks to the blockchain technology and/or IPFS), so information can't be censored.
+A dapp that enable journalists to protect their articles "forever" (thanks to the blockchain and/or IPFS technology - unless Ethereum really implement "The Purge" the way I think), so information can't be censored.
 
 This is also a protest to Ethereum's possible plans for "The Purge".
 
