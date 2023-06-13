@@ -1,5 +1,11 @@
 v2 dapp:
-- 43160 characters max for updating an article
+- [ChatGPT]Brainstorming.html: make routing/components work (get rid of blank page issue)
+- 43160 characters max for updating an Fullarticle
+- {ipfs-cid-lenght} characters max for the Partialarticle text field
 
-eternal-journalism-v3 will have NFTs
-eternal-journalism-v4: go multichain and use oracles to prevent duplicates
+eternal-journalism-v3:
+- integrate articles from v1 and v2
+- articles as POAP-like (Soulbound) NFTs
+
+eternal-journalism-v4:
+- go multichain and use oracles to prevent duplicates
