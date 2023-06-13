@@ -1,13 +1,3 @@
-Eternal Journalism v2:
-- support transferring ownership
-- support article URL
-- support multi-part article so tx won't revert for a big article (both for posting and updating)
-- get number of articles and number of updates
-- get number of updates for a given article
-- store contract version
-
-transfer eternal-journalism-v2 contract ownership to Coordinations' Agent (0x0d9c66c06ad28008ddc5e171c4f73643006deabc)
-
 v2 dapp:
 - 43160 characters max for updating an article
 
