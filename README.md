@@ -18,7 +18,7 @@ On Polygon, the gas cost is ~$3 per Full article depending on its size. For Part
 
 Not deployed to Ethereum, yet.
 
-The smart-contract has not been audited yet.
+The smart-contract has not been audited yet, although there's no need for that as the dapp is focused on storing permanent data rather than moving money.
 
 ### Polygon
 
@@ -30,4 +30,14 @@ Eternal Journalism's smart-contract is verified at [Sourcify](https://repo.sourc
 
 We are thrilled to, someday, be able to deploy on Ethereum.
 
-To make that possible, you can donate to [0xddfc2e10702d8a781727a34d83b3bb3ca94a3e91](eth://0xddfc2e10702d8a781727a34d83b3bb3ca94a3e91); to ensure your donation will be directed to Eternal Journalism and not confused with other donations, please add a message to your transaction mentioning "Eternal Journalism".
+To make that possible, you can donate any non-shitcoin token or ETH to [0xddfc2e10702d8a781727a34d83b3bb3ca94a3e91](eth://0xddfc2e10702d8a781727a34d83b3bb3ca94a3e91) in the Ethereum or any L2 network of your choice; to ensure your donation will be directed to Eternal Journalism and not confused with other donations, please add an UTF-8/HEX message to your transaction (or to a follow-up transaction if a token doesn't support that) mentioning "Eternal Journalism". Any L2 that uses ETH as gastoken should support sending messages when sending ETH, so as happen on Ethereum L1.
+
+### Others
+
+Turning multichain, coming to Base, Arbitrum and zkSync soon (Eternal Journalism v3, maybe renamed to just "Ethernal").
+
+## Plans for v3 (currently latest is v2)
+
+v3 should canonically merge data of v1 and v2, go multichain (paving the way for data oracles), and make fully onchain data cheaper (by using two separate transactions, one for a UTF-8 HEX transfer, other for referencing to that tx ID).
+
+Read more at this monorepo's [Tasks.txt](Tasks.txt) file.
