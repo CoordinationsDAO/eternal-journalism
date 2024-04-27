@@ -26,6 +26,12 @@ You can interact with the contract on [Polygonscan](https://polygonscan.com/addr
 
 Eternal Journalism's smart-contract is verified at [Sourcify](https://repo.sourcify.dev/contracts/partial_match/137/0xCef69Cd562EC0C35aD87c89519eB8c78bD214c38) and [Polygonscan](https://polygonscan.com/address/0xCef69Cd562EC0C35aD87c89519eB8c78bD214c38#contracts).
 
+### Base
+
+You can interact with the contract on [Basescan](https://basescan.org/address/0x7923d61a242927e3e0170ad0a1c32a860f15be6e#writeContract).
+
+Eternal Journalism's smart-contract is verified at [Sourcify](https://repo.sourcify.dev/contracts/full_match/8453/0x7923D61A242927e3E0170AD0A1C32a860F15bE6e) and [Basescan](https://basescan.org/address/0x7923d61a242927e3e0170ad0a1c32a860f15be6e#contracts).
+
 ### Ethereum
 
 We are thrilled to, someday, be able to deploy on Ethereum.
