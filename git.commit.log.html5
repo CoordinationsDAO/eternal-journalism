@@ -1,0 +1,240 @@
+<pre><font color="#42E66C">     __  ,</font>
+<font color="#42E66C"> .--()°&apos;.&apos; </font>Welcome to <font color="#42E66C">Nushell</font>,
+<font color="#42E66C">&apos;|, . ,&apos;   </font>based on the <font color="#42E66C">nu</font> language,
+<font color="#42E66C"> !_-(_\    </font>where all data is structured!
+
+Please join our <font color="#E64747">Discord</font> community at <font color="#E64747">https://discord.gg/NtAbbGn</font>
+Our <font color="#50FA7B"><b>GitHub</b></font> repository is at <font color="#50FA7B"><b>https://github.com/nushell/nushell</b></font>
+Our <font color="#42E66C">Documentation</font> is located at <font color="#42E66C">http://nushell.sh</font>
+<font color="#75D7EC">Tweet</font> us at <font color="#8BE9FD"><b>@nu_shell</b></font>
+
+It&apos;s been this long since <font color="#42E66C">Nushell</font>&apos;s first commit:
+4yr 11month 3wk 3day 16min 10sec 183ms 952µs 250ns
+
+git [<font color="#E4F34A">WARN</font>] - (starship::utils): Executing command &quot;/usr/bin/git&quot; timed out.
+[<font color="#E4F34A">WARN</font>] - (starship::utils): You can set command_timeout in your config to a higher value to allow longer-running commands to keep executing.
+sStartup Time: 1sec 1ms 652µs 941ns
+
+<font color="#8BE9FD"><b>eternal-journalism</b></font> on <font color="#FF5555"><b> main</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>status</b></font>
+On branch main
+Your branch is behind &apos;origin/main&apos; by 1 commit, and can be fast-forwarded.
+  (use &quot;git pull&quot; to update your local branch)
+
+Changes not staged for commit:
+  (use &quot;git add &lt;file&gt;...&quot; to update what will be committed)
+  (use &quot;git restore &lt;file&gt;...&quot; to discard changes in working directory)
+	<font color="#E356A7">modified:   .gitattributes</font>
+	<font color="#E356A7">modified:   .gitignore</font>
+	<font color="#E356A7">modified:   .gitmeta</font>
+	<font color="#E356A7">modified:   README.md</font>
+	<font color="#E356A7">modified:   Screenshot from 2023-06-12 12-51-02.png</font>
+	<font color="#E356A7">modified:   Screenshot from 2023-06-12 13-38-45.png</font>
+	<font color="#E356A7">modified:   Tasks.txt</font>
+	<font color="#E356A7">modified:   [ChatGPT]Brainstorming.html</font>
+	<font color="#E356A7">modified:   app/.babelrc</font>
+	<font color="#E356A7">modified:   app/README.md</font>
+	<font color="#E356A7">modified:   app/package-lock.json</font>
+	<font color="#E356A7">modified:   app/package.json</font>
+	<font color="#E356A7">modified:   app/public/favicon.ico</font>
+	<font color="#E356A7">modified:   app/public/index.html</font>
+	<font color="#E356A7">modified:   app/public/logo192.png</font>
+	<font color="#E356A7">modified:   app/public/logo512.png</font>
+	<font color="#E356A7">modified:   app/public/manifest.json</font>
+	<font color="#E356A7">modified:   app/public/robots.txt</font>
+	<font color="#E356A7">modified:   app/src/App.css</font>
+	<font color="#E356A7">modified:   app/src/App.js</font>
+	<font color="#E356A7">modified:   app/src/App.test.js</font>
+	<font color="#E356A7">modified:   app/src/index.css</font>
+	<font color="#E356A7">modified:   app/src/index.js</font>
+	<font color="#E356A7">modified:   app/src/logo.svg</font>
+	<font color="#E356A7">modified:   app/src/pages/ArticlePage.js</font>
+	<font color="#E356A7">modified:   app/src/pages/ConnectPage.js</font>
+	<font color="#E356A7">modified:   app/src/pages/EternalJournalismContract.abi</font>
+	<font color="#E356A7">modified:   app/src/pages/EternalJournalismV2.json</font>
+	<font color="#E356A7">modified:   app/src/pages/HomePage.js</font>
+	<font color="#E356A7">modified:   app/src/reportWebVitals.js</font>
+	<font color="#E356A7">modified:   app/src/setupTests.js</font>
+	<font color="#E356A7">modified:   app/src/web3.js</font>
+	<font color="#E356A7">modified:   contracts/Versions.txt</font>
+	<font color="#E356A7">modified:   contracts/v1/.prettierrc.json</font>
+	<font color="#E356A7">modified:   contracts/v1/EternalJournalism.sol</font>
+	<font color="#E356A7">modified:   contracts/v1/artifacts/EternalJournalism.json</font>
+	<font color="#E356A7">modified:   contracts/v1/artifacts/EternalJournalism_metadata.json</font>
+	<font color="#E356A7">modified:   contracts/v1/artifacts/build-info/21f526037240672033bf7a3262c51377.json</font>
+	<font color="#E356A7">modified:   contracts/v1/compiler_config.json</font>
+	<font color="#E356A7">modified:   contracts/v2/.prettierrc.json</font>
+	<font color="#E356A7">modified:   contracts/v2/EternalJournalismV2.sol</font>
+	<font color="#E356A7">modified:   contracts/v2/artifacts/EternalJournalismV2.json</font>
+	<font color="#E356A7">modified:   contracts/v2/artifacts/EternalJournalismV2_metadata.json</font>
+	<font color="#E356A7">modified:   contracts/v2/artifacts/build-info/5e49e6cf2245df4d4bb10866b919604d.json</font>
+	<font color="#E356A7">modified:   contracts/v2/compiler_config.json</font>
+
+no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;)
+
+<font color="#8BE9FD"><b>eternal-journalism</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[!⇣]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>add</b></font> <font color="#50FA7B"><b>.</b></font> ; <font color="#75D7EC">git</font> <font color="#50FA7B"><b>status</b></font>
+On branch main
+Your branch is behind &apos;origin/main&apos; by 1 commit, and can be fast-forwarded.
+  (use &quot;git pull&quot; to update your local branch)
+
+Changes to be committed:
+  (use &quot;git restore --staged &lt;file&gt;...&quot; to unstage)
+	<font color="#42E66C">modified:   .gitattributes</font>
+	<font color="#42E66C">modified:   .gitignore</font>
+	<font color="#42E66C">modified:   .gitmeta</font>
+	<font color="#42E66C">modified:   README.md</font>
+	<font color="#42E66C">modified:   Screenshot from 2023-06-12 12-51-02.png</font>
+	<font color="#42E66C">modified:   Screenshot from 2023-06-12 13-38-45.png</font>
+	<font color="#42E66C">modified:   Tasks.txt</font>
+	<font color="#42E66C">modified:   [ChatGPT]Brainstorming.html</font>
+	<font color="#42E66C">modified:   app/.babelrc</font>
+	<font color="#42E66C">modified:   app/README.md</font>
+	<font color="#42E66C">modified:   app/package-lock.json</font>
+	<font color="#42E66C">modified:   app/package.json</font>
+	<font color="#42E66C">modified:   app/public/favicon.ico</font>
+	<font color="#42E66C">modified:   app/public/index.html</font>
+	<font color="#42E66C">modified:   app/public/logo192.png</font>
+	<font color="#42E66C">modified:   app/public/logo512.png</font>
+	<font color="#42E66C">modified:   app/public/manifest.json</font>
+	<font color="#42E66C">modified:   app/public/robots.txt</font>
+	<font color="#42E66C">modified:   app/src/App.css</font>
+	<font color="#42E66C">modified:   app/src/App.js</font>
+	<font color="#42E66C">modified:   app/src/App.test.js</font>
+	<font color="#42E66C">modified:   app/src/index.css</font>
+	<font color="#42E66C">modified:   app/src/index.js</font>
+	<font color="#42E66C">modified:   app/src/logo.svg</font>
+	<font color="#42E66C">modified:   app/src/pages/ArticlePage.js</font>
+	<font color="#42E66C">modified:   app/src/pages/ConnectPage.js</font>
+	<font color="#42E66C">modified:   app/src/pages/EternalJournalismContract.abi</font>
+	<font color="#42E66C">modified:   app/src/pages/EternalJournalismV2.json</font>
+	<font color="#42E66C">modified:   app/src/pages/HomePage.js</font>
+	<font color="#42E66C">modified:   app/src/reportWebVitals.js</font>
+	<font color="#42E66C">modified:   app/src/setupTests.js</font>
+	<font color="#42E66C">modified:   app/src/web3.js</font>
+	<font color="#42E66C">modified:   contracts/Versions.txt</font>
+	<font color="#42E66C">modified:   contracts/v1/.prettierrc.json</font>
+	<font color="#42E66C">modified:   contracts/v1/EternalJournalism.sol</font>
+	<font color="#42E66C">modified:   contracts/v1/artifacts/EternalJournalism.json</font>
+	<font color="#42E66C">modified:   contracts/v1/artifacts/EternalJournalism_metadata.json</font>
+	<font color="#42E66C">modified:   contracts/v1/artifacts/build-info/21f526037240672033bf7a3262c51377.json</font>
+	<font color="#42E66C">modified:   contracts/v1/compiler_config.json</font>
+	<font color="#42E66C">modified:   contracts/v2/.prettierrc.json</font>
+	<font color="#42E66C">modified:   contracts/v2/EternalJournalismV2.sol</font>
+	<font color="#42E66C">modified:   contracts/v2/artifacts/EternalJournalismV2.json</font>
+	<font color="#42E66C">modified:   contracts/v2/artifacts/EternalJournalismV2_metadata.json</font>
+	<font color="#42E66C">modified:   contracts/v2/artifacts/build-info/5e49e6cf2245df4d4bb10866b919604d.json</font>
+	<font color="#42E66C">modified:   contracts/v2/compiler_config.json</font>
+
+
+<font color="#8BE9FD"><b>eternal-journalism</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[+⇣]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>commit</b></font> <font color="#50FA7B"><b>-m</b></font> <font color="#50FA7B"><b>&quot;?&quot;</b></font>
+🤓📝 Storing files&apos; timestamp, CID/hash; and other files/commit&apos;s metadata...
+rm: cannot remove &apos;.gitmeta-cid&apos;: No such file or directory
+mkdir: cannot create directory ‘.gitmeta/cids_detailed’: File exists
+[DEBUG]Current file: .gitattributes
+[DEBUG]Current file: .gitignore
+[DEBUG]Current file: README.md
+[DEBUG]Current file: Screenshot from 2023-06-12 12-51-02.png
+[DEBUG]Current file: Screenshot from 2023-06-12 13-38-45.png
+[DEBUG]Current file: Tasks.txt
+[DEBUG]Current file: [ChatGPT]Brainstorming.html
+[DEBUG]Current file: app/.babelrc
+[DEBUG]Current file: app/README.md
+[DEBUG]Current file: app/package-lock.json
+[DEBUG]Current file: app/package.json
+[DEBUG]Current file: app/public/favicon.ico
+[DEBUG]Current file: app/public/index.html
+[DEBUG]Current file: app/public/logo192.png
+[DEBUG]Current file: app/public/logo512.png
+[DEBUG]Current file: app/public/manifest.json
+[DEBUG]Current file: app/public/robots.txt
+[DEBUG]Current file: app/src/App.css
+[DEBUG]Current file: app/src/App.js
+[DEBUG]Current file: app/src/App.test.js
+[DEBUG]Current file: app/src/index.css
+[DEBUG]Current file: app/src/index.js
+[DEBUG]Current file: app/src/logo.svg
+[DEBUG]Current file: app/src/pages/ArticlePage.js
+[DEBUG]Current file: app/src/pages/ConnectPage.js
+[DEBUG]Current file: app/src/pages/EternalJournalismContract.abi
+[DEBUG]Current file: app/src/pages/EternalJournalismV2.json
+[DEBUG]Current file: app/src/pages/HomePage.js
+[DEBUG]Current file: app/src/reportWebVitals.js
+[DEBUG]Current file: app/src/setupTests.js
+[DEBUG]Current file: app/src/web3.js
+[DEBUG]Current file: contracts/Versions.txt
+[DEBUG]Current file: contracts/v1/.prettierrc.json
+[DEBUG]Current file: contracts/v1/EternalJournalism.sol
+[DEBUG]Current file: contracts/v1/artifacts/EternalJournalism.json
+[DEBUG]Current file: contracts/v1/artifacts/EternalJournalism_metadata.json
+[DEBUG]Current file: contracts/v1/artifacts/build-info/21f526037240672033bf7a3262c51377.json
+[DEBUG]Current file: contracts/v1/compiler_config.json
+[DEBUG]Current file: contracts/v2/.prettierrc.json
+[DEBUG]Current file: contracts/v2/EternalJournalismV2.sol
+[DEBUG]Current file: contracts/v2/artifacts/EternalJournalismV2.json
+[DEBUG]Current file: contracts/v2/artifacts/EternalJournalismV2_metadata.json
+[DEBUG]Current file: contracts/v2/artifacts/build-info/5e49e6cf2245df4d4bb10866b919604d.json
+[DEBUG]Current file: contracts/v2/compiler_config.json
+[01VCS] 🆔Commit ID: QmSfT5LWQW4V3tPicCq65dwttc2io9fSLoDmBqByoLg7Mt
+💎 Found .git/hooks/.eth!
+🪄 Signing the commit QmSfT5LWQW4V3tPicCq65dwttc2io9fSLoDmBqByoLg7Mt with your choosen ETH address 0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91...
+🔦 Verifying signature...
+Verified
+✅ Done. Meta has been preserved!
+🎉 Your snapshot/commit is done!
+[main b1d07be] ?
+ 49 files changed, 334 insertions(+), 8 deletions(-)
+ mode change 100644 =&gt; 100755 .gitattributes
+ mode change 100644 =&gt; 100755 .gitignore
+ delete mode 100644 .gitmeta
+ create mode 100644 .gitmeta/.gitmeta
+ create mode 100644 .gitmeta/cids.txt
+ create mode 100644 .gitmeta/cids_detailed/files-only.txt
+ create mode 100644 .gitmeta/cids_detailed/with-sha1.txt
+ mode change 100644 =&gt; 100755 README.md
+ mode change 100644 =&gt; 100755 Screenshot from 2023-06-12 12-51-02.png
+ mode change 100644 =&gt; 100755 Screenshot from 2023-06-12 13-38-45.png
+ mode change 100644 =&gt; 100755 Tasks.txt
+ mode change 100644 =&gt; 100755 [ChatGPT]Brainstorming.html
+ mode change 100644 =&gt; 100755 app/.babelrc
+ mode change 100644 =&gt; 100755 app/README.md
+ mode change 100644 =&gt; 100755 app/package-lock.json
+ mode change 100644 =&gt; 100755 app/package.json
+ mode change 100644 =&gt; 100755 app/public/favicon.ico
+ mode change 100644 =&gt; 100755 app/public/index.html
+ mode change 100644 =&gt; 100755 app/public/logo192.png
+ mode change 100644 =&gt; 100755 app/public/logo512.png
+ mode change 100644 =&gt; 100755 app/public/manifest.json
+ mode change 100644 =&gt; 100755 app/public/robots.txt
+ mode change 100644 =&gt; 100755 app/src/App.css
+ mode change 100644 =&gt; 100755 app/src/App.js
+ mode change 100644 =&gt; 100755 app/src/App.test.js
+ mode change 100644 =&gt; 100755 app/src/index.css
+ mode change 100644 =&gt; 100755 app/src/index.js
+ mode change 100644 =&gt; 100755 app/src/logo.svg
+ mode change 100644 =&gt; 100755 app/src/pages/ArticlePage.js
+ mode change 100644 =&gt; 100755 app/src/pages/ConnectPage.js
+ mode change 100644 =&gt; 100755 app/src/pages/EternalJournalismContract.abi
+ mode change 100644 =&gt; 100755 app/src/pages/EternalJournalismV2.json
+ mode change 100644 =&gt; 100755 app/src/pages/HomePage.js
+ mode change 100644 =&gt; 100755 app/src/reportWebVitals.js
+ mode change 100644 =&gt; 100755 app/src/setupTests.js
+ mode change 100644 =&gt; 100755 app/src/web3.js
+ mode change 100644 =&gt; 100755 contracts/Versions.txt
+ mode change 100644 =&gt; 100755 contracts/v1/.prettierrc.json
+ mode change 100644 =&gt; 100755 contracts/v1/EternalJournalism.sol
+ mode change 100644 =&gt; 100755 contracts/v1/artifacts/EternalJournalism.json
+ mode change 100644 =&gt; 100755 contracts/v1/artifacts/EternalJournalism_metadata.json
+ mode change 100644 =&gt; 100755 contracts/v1/artifacts/build-info/21f526037240672033bf7a3262c51377.json
+ mode change 100644 =&gt; 100755 contracts/v1/compiler_config.json
+ mode change 100644 =&gt; 100755 contracts/v2/.prettierrc.json
+ mode change 100644 =&gt; 100755 contracts/v2/EternalJournalismV2.sol
+ mode change 100644 =&gt; 100755 contracts/v2/artifacts/EternalJournalismV2.json
+ mode change 100644 =&gt; 100755 contracts/v2/artifacts/EternalJournalismV2_metadata.json
+ mode change 100644 =&gt; 100755 contracts/v2/artifacts/build-info/5e49e6cf2245df4d4bb10866b919604d.json
+ mode change 100644 =&gt; 100755 contracts/v2/compiler_config.json
+
+<font color="#8BE9FD"><b>eternal-journalism</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[⇕]</b></font> took <font color="#F1FA8C"><b>9s</b></font> 
+<font color="#50FA7B"><b>❯</b></font> 
+</pre>
